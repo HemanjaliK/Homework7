@@ -1,1 +1,1 @@
-![alt text](image.png)
+# [link for qrcode:](https://github.com/HemanjaliK/Homework7/blob/main/image.png)
